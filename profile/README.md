@@ -1,7 +1,7 @@
 ## Metanomias Projects:
-- [wiiva](https://www.wiiva.com/)
-- [Para-bellum](https://www.para-bellum.io/)
-- [Killerchain](https://www.killercha.in/)
+- [Wiiva, Detecting and Preventing Invoice Fraud in your Organization](https://www.wiiva.com/)
+- [Para-bellum, A CyberWarfare Defense.](https://www.para-bellum.io/) 
+- [Killerchain, is a hash lookup service  This allows you to input an MD5, SHA-1, Vbulletin, Invision Power Board, MyBB, Bcrypt, Wordpress, SHA-256, SHA-512, MYSQL5 etc hash and search for its corresponding plaintext ("found") in our database of already files hashes.](https://www.killercha.in/)
 - Datia.io
 - Devia.io
 
