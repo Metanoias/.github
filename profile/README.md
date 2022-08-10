@@ -1,3 +1,10 @@
+## Metanomias Projects:
+- [wiiva](https://www.wiiva.com/)
+- [Para-bellum](https://www.para-bellum.io/)
+- [Killerchain](https://www.killercha.in/)
+- Datia.io
+- Devia.io
+
 ## Cyber Security Metanoia
 
 We all have experienced metanoia at one time or another. Many of us may be able to reflect on our stories and locate with ease those remarkable and pivotal moments in our lives when “everything changed”, when we felt almost as if we had become “a different person” – experiences which altered the path of our narrative in fundamental and profoundly influential ways. Often, metanoia can draw us from a trajectory of a diminished self onto a journey into life in all its fullness and through which we will become more fully ourselves.
